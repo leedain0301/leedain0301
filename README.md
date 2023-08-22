@@ -16,10 +16,11 @@
  ## 🛠Tech Stack
 
  ### ✔️Language
- <img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
+<img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
+<img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/37846c8f-aeab-4b4d-bb2e-9647d8c0a521"/>
+<img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/f43468d0-c75a-4f8e-862a-06e7b42fda5c"/>
+ 
 
-JAVA 
-Javascript
 
  ### ✔️Frameworks
 
