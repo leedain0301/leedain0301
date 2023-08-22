@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=300&section=header&text=Hello%20World👋&desc=This%20is%20Dain's%20Github&fontSize=60&descSize=30&fontAlignY=40&descAlignY=55&color=gradient&customColorList=5&fontColor=f2f2f2)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=250&section=header&text=Hello%20World!&desc=This%20is%20Dain's%20Github&fontSize=60&descSize=30&fontAlignY=30&descAlignY=50&color=gradient&customColorList=0,5)
 
 ## 🖥Project
 
@@ -14,4 +14,4 @@
  ## 🛠Skill
 
 
- ![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=100&section=footer&color=gradient&customColorList=5)
+![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=100&section=footer&color=gradient&customColorList=0,5)
