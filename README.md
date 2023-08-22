@@ -16,12 +16,12 @@
  ## 🛠Tech Stack
 
  ### ✔️Language
-<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
+<img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/f43468d0-c75a-4f8e-862a-06e7b42fda5c"/>
 
 
  ### ✔️Frameworks
-<img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3266b8b1-1eda-442d-8281-2fe727b2fc3b"/>
+<img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3266b8b1-1eda-442d-8281-2fe727b2fc3b"/>
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/cd8f922d-5ee1-40e0-b524-f7d5a4d23002"/>
 <img width="5%" src="(https://github.com/leedain0301/leedain0301/assets/85441185/63b563b3-4bc2-41ea-bf96-750af375ead3"/>
 
@@ -29,7 +29,7 @@
 
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3456c03d-ec2f-4907-8003-44c775efe9d5"/>
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/e7c8e620-eea4-44d7-b458-a13eb0138157"/>
-<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/9527b9e2-c6ba-4e44-96ab-1691e08360e9"/>
+<img width="5%" src=(https://github.com/leedain0301/leedain0301/assets/85441185/7fe3929d-0664-403d-a055-d6a40290dff7"/>
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/31bb3be1-c52a-4414-a38e-fa30d8315cba"/> 
 
  ### ✔️DSL
@@ -37,7 +37,7 @@
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/73a826a7-fa42-45ef-aa84-eed367aaf7e1"/>   
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/37846c8f-aeab-4b4d-bb2e-9647d8c0a521"/>  
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/51f8c823-316d-4f80-ba75-b9a90a37d1ba"/>   
-<br/>
+<br/><br/>
 <img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/b5ad0286-3060-4193-b1c1-abd519c340c3"/> 
 
 
