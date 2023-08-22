@@ -16,14 +16,26 @@
  ## 🛠Tech Stack
 
  ### ✔️Language
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=React&logoColor=black">
 
- ### ✔️Framework
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=green">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=green">
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Spring Boot&logoColor=white">
+JAVA 
+Javascript
 
- 
+ ### ✔️Frameworks
+
+jQuery
+ ### ✔️DSL
+HTML, CSS, SCSS
+JSON, XML
+SQL
+Markdown
+jsp
+bootstrap
+
+ ### ✔️ Database 
+ MySQL,Sqlite,MariaDB
+
+ Git
+ svn
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=100&section=footer&color=gradient&customColorList=0,5)
