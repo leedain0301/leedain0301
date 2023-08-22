@@ -22,12 +22,12 @@
  ### ✔️Frameworks
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3266b8b1-1eda-442d-8281-2fe727b2fc3b"/>
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/cd8f922d-5ee1-40e0-b524-f7d5a4d23002"/>
-<img width="6%" style="margin:0 0 10px 0" src="https://github.com/leedain0301/leedain0301/assets/85441185/63b563b3-4bc2-41ea-bf96-750af375ead3"/>
+<img width="6%" style="margin:0 0 50px 0" src="https://github.com/leedain0301/leedain0301/assets/85441185/63b563b3-4bc2-41ea-bf96-750af375ead3"/>
 
  ### ✔️ Database 
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3456c03d-ec2f-4907-8003-44c775efe9d5"/>
 <img width="9%" src="https://github.com/leedain0301/leedain0301/assets/85441185/e7c8e620-eea4-44d7-b458-a13eb0138157"/>
-<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/6f07c63d-2798-4597-8fed-4121e880c877"/>
+<img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/6f07c63d-2798-4597-8fed-4121e880c877"/>
 
 
  ### ✔️DSL
