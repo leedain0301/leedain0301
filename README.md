@@ -17,8 +17,8 @@
 
  ### ✔️Language
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
-<img width="5%" margin-right="2px" src="https://github.com/leedain0301/leedain0301/assets/85441185/37846c8f-aeab-4b4d-bb2e-9647d8c0a521"/>
-<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/f43468d0-c75a-4f8e-862a-06e7b42fda5c"/>
+<img width="5%" margin="5px" src="https://github.com/leedain0301/leedain0301/assets/85441185/37846c8f-aeab-4b4d-bb2e-9647d8c0a521"/>
+<img width="5%" margin="5px" src="https://github.com/leedain0301/leedain0301/assets/85441185/f43468d0-c75a-4f8e-862a-06e7b42fda5c"/>
 <br>
 Java Javascript Python
 
@@ -33,7 +33,8 @@ SQL
 Markdown
 jsp
 bootstrap
-![css3](https://github.com/leedain0301/leedain0301/assets/85441185/5454624d-6371-40c2-bb64-47b6536cc927)
+
+<img width="5%" margin="5px" src="https://github.com/leedain0301/leedain0301/assets/85441185/5454624d-6371-40c2-bb64-47b6536cc927"/>
  ### ✔️ Database 
  MySQL,Sqlite,MariaDB
 
