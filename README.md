@@ -17,8 +17,7 @@
 
  ### ✔️Language
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
-<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/f43468d0-c75a-4f8e-862a-06e7b42fda5c"/>
-
+<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/665aed38-0516-422c-9827-8661982cd53b"/>
 
  ### ✔️Frameworks
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3266b8b1-1eda-442d-8281-2fe727b2fc3b"/>
@@ -35,7 +34,7 @@
  ### ✔️DSL
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/5454624d-6371-40c2-bb64-47b6536cc927"/>   
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/73a826a7-fa42-45ef-aa84-eed367aaf7e1"/>   
-<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/37846c8f-aeab-4b4d-bb2e-9647d8c0a521"/>  
+<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/048661b4-8f7e-4a16-9096-bdaed1546030"/>  
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/51f8c823-316d-4f80-ba75-b9a90a37d1ba"/>   
 <br/><br/>
 <img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/b5ad0286-3060-4193-b1c1-abd519c340c3"/> 
