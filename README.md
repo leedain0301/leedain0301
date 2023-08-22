@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=250&section=header&text=Hello%20World!&desc=This%20is%20Dain's%20Github&fontSize=60&descSize=30&fontAlignY=30&descAlignY=50&color=gradient&customColorList=0,5)
 
-### 🌱새싹 데이터 엔지니어 이다인입니다<br/>I want to be a person who helps society📬
+## 🌱새싹 데이터 엔지니어 이다인입니다
+📬I want to be a person who helps society   
+🤝I want to be someone you can trust.
+
 
 ## 🖥Project
 * Web Develop
@@ -23,11 +26,13 @@
 <img width="6%" src="https://github.com/leedain0301/leedain0301/assets/85441185/cd8f922d-5ee1-40e0-b524-f7d5a4d23002"/>   
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/c3af6e67-4b9d-4280-8e91-ed90295c078b"/>
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3266b8b1-1eda-442d-8281-2fe727b2fc3b"/>
+<br/>
+
 
  ### ✔️Database 
-<img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/6f07c63d-2798-4597-8fed-4121e880c877"/>
-<img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3456c03d-ec2f-4907-8003-44c775efe9d5"/>
-<img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/faf61026-34b0-4d42-849b-8a543377193c"/>
+<img width="6%" src="https://github.com/leedain0301/leedain0301/assets/85441185/6f07c63d-2798-4597-8fed-4121e880c877"/>
+<img width="6%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3456c03d-ec2f-4907-8003-44c775efe9d5"/>
+<img width="6%" src="https://github.com/leedain0301/leedain0301/assets/85441185/faf61026-34b0-4d42-849b-8a543377193c"/>
 
  ### ✔️Others
 <img width="4%" src="https://github.com/leedain0301/leedain0301/assets/85441185/048661b4-8f7e-4a16-9096-bdaed1546030"/>  
@@ -35,6 +40,9 @@
 <img width="5.5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/73a826a7-fa42-45ef-aa84-eed367aaf7e1"/>   
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/51f8c823-316d-4f80-ba75-b9a90a37d1ba"/>   
 <img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/31bb3be1-c52a-4414-a38e-fa30d8315cba"/> 
+<img width="5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3ee2138b-b7ce-43ba-9706-08d8ad0c43a2"/> 
+
+
 <!-- 
 <br/><br/>
 <img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/b5ad0286-3060-4193-b1c1-abd519c340c3"/> 
