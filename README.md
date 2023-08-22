@@ -16,7 +16,7 @@
  ## 🛠Tech Stack
 
  ### ✔️Language
- <img width="20%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
+ <img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/986b4fe5-3ee5-42ac-8d36-6f3763921d03"/>
 
 JAVA 
 Javascript
