@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&theme=gruvbox_light&height=300&section=header&text=Welcome%20to%20Dain%20github%20&fontColor=E6E6FA&fontSize=40&render)
+![header](https://capsule-render.vercel.app/api?type=waving&theme=gruvbox_light&height=250&section=header&text=Hello%20World!&desc=This%20is%20Dain's%20Github&fontSize=50&descSize=25&fontAlignY=40&descAlignY=55)
 
 ### 안녕하세요. 반갑습니다~ 👋
 
