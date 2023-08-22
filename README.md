@@ -29,7 +29,7 @@
 <img width="8%" src="https://github.com/leedain0301/leedain0301/assets/85441185/3456c03d-ec2f-4907-8003-44c775efe9d5"/>
 <img width="10%" src="https://github.com/leedain0301/leedain0301/assets/85441185/faf61026-34b0-4d42-849b-8a543377193c"/>
 
- ### ✔️DSL
+ ### ✔️Others
 <img width="4%" src="https://github.com/leedain0301/leedain0301/assets/85441185/048661b4-8f7e-4a16-9096-bdaed1546030"/>  
 <img width="5.5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/5454624d-6371-40c2-bb64-47b6536cc927"/>   
 <img width="5.5%" src="https://github.com/leedain0301/leedain0301/assets/85441185/73a826a7-fa42-45ef-aa84-eed367aaf7e1"/>   
