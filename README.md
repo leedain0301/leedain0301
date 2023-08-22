@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello%20World!&desc=This%20is%20Dain's%20Github&fontSize=50&descSize=25&fontAlignY=40&descAlignY=55)
-
-### 안녕하세요. 반갑습니다~ 👋
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=300&section=header&text=Hello%20World👋&desc=This%20is%20Dain's%20Github&fontSize=60&descSize=30&fontAlignY=40&descAlignY=55&color=gradient&customColorList=5&fontColor=f2f2f2)
 
 ## 🖥Project
 
@@ -14,4 +12,6 @@
   + 🎥[영화리뷰 감정 분석](https://github.com/leedain0301/Modeling-Movie-Review-Sentiment)
 
  ## 🛠Skill
- 
+
+
+ ![footer](https://capsule-render.vercel.app/api?type=waving&reversal=true&height=100&section=footer&color=gradient&customColorList=5)
