@@ -2,8 +2,9 @@
 
 ## 🌱새싹 데이터 엔지니어 이다인입니다
 📬I want to be a person who helps society   
-🤝I want to be someone you can trust.
-
+🤝I want to be someone you can trust.<br><br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/leedain0301/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='30'>](https://leedain.notion.site/d9d6ff674e09458a8e7ee67b7098779a?pvs=4)  
 
 ## 🖥Project
 * Web Develop
